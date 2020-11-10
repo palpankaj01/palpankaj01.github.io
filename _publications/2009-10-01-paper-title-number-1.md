@@ -1,7 +1,7 @@
 ---
 title: "RNNs-RT: Flood based Prediction of Human and Animal deaths in Bihar using Recurrent Neural Networks and Regression Techniques"
 collection: publications
-permalink: /elsevier/2019-RNNs-RT: Flood based Prediction of Human and Animal deaths in Bihar using Recurrent Neural Networks and Regression Techniques
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019
 venue: 'Procedia Computer Science'
