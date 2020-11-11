@@ -20,3 +20,19 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    
+    
+ # - title: "About"
+ #   url: /about/ 
+  #- title: "News"
+ #   url: /news/
+ # - title: "Teaching"
+ #  url: /teaching/
+#  - title: "Research"
+ #   url: /research/
+ # - title: "Projects"
+ #   url: /projects/
+ # - title: "Useful tips"
+  #  url: /useful/
+  #- title: "Talks"
+ #   url: /talk/
