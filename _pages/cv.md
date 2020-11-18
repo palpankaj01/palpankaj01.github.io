@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E in Information Technology, RGPV Bhopa,India. 
+* B.E in Information Technology, RGPV Bhopal, India. 
 * M.Tech in Computer Science, NIT Raipur, India.
 * Ph.D in Computer Science, IIT-Dhanbad, India, (2021-expected)
 
