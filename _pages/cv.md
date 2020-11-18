@@ -41,9 +41,7 @@ Skills
 
 Publications
 ======
- <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+<!-- <ul>{% for post in site.publications %}{% include archive-single-cv.html %}{% endfor %}</ul> -->
 1. R. Priya, D. Ramesh, and E. Khosla, “Crop prediction on the region belts of india: a
 naïve bayes mapreduce precision agricultural model,” in 2018 international
 conference on advances in computing, communications and informatics (ICACCI),
