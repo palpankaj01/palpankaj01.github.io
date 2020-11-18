@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
-August 2019 – Present (1 Years) Dhanbad, Jharkhand, India\
-* DEPARTMENT O FSCIENCE AND TECHNOLOGY : PROJECT FELLOW\
+August 2019 – Present (1 Years) Dhanbad, Jharkhand, India
+* DEPARTMENT OF SCIENCE AND TECHNOLOGY : PROJECT FELLOW\
 March 2016 – August 2019 (3.5 Years)\
 Government of India, New Delhi, India 
 * MUMBAI UNIVERSITY: ASSISTANT PROFESSOR \
