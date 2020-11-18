@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Information Technology, WBUT,India. 
-* M.Tech in Computer Science, IIT-Dhanbad, India.
+* B.E in Information Technology, RGPV Bhopa,India. 
+* M.Tech in Computer Science, NIT Raipur, India.
 * Ph.D in Computer Science, IIT-Dhanbad, India, (2021-expected)
 
 Work experience
@@ -26,18 +26,14 @@ Work experience
   
 Skills
 ======
-* Programming (Proficient)
-  * Python , Matlab , C 
-  * Numpy  , Pandas , Scikit Learn 
-  * Matplotlib , LATEX  , Seaborn
-* Programming (Experienced)
-  * Java
-  * C++
-  * Html, CSS, Javascript
-* Big Data Framework
-  * Hadoop , Spark
-* Dbms Tool
-  * Mysql , MongoDB
+* Programming (Proficient):
+  * Python , Matlab , C , C++ , LATEX
+  * System on Chip (SoC) Micro-Controller Programming
+  * IEEE 802.15.4 Zgbee:
+    * CC2538, CC2650, CC2538-CC2592, Atmega128RFA1
+  * On board computer:
+    * Intel Edison, raspberry pi, Arduino 
+* 
 
 Publications
 ======
