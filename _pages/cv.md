@@ -17,11 +17,8 @@ Education
 
 Work experience
 ======
-*  2016-2017: Assistant Professor
-  * Dehradun Intitute of Technology
-  * Subjects Taught: Object Oriented Programming, Data Mining
+*  2016-2017: Assistant Professor (Dehradun Intitute of Technology)
   
-
 * 2017-2020: PROJECT FELLOW
   * DST(SERB) IIT DHANBAD
   
@@ -30,17 +27,17 @@ Work experience
 Skills
 ======
 * Programming (Proficient)
-  * Python * Matlab * C 
-  * Numpy  * Pandas * Scikit Learn 
-  * Matplotlib * LATEX  * Seaborn
+  * Python , Matlab , C 
+  * Numpy  , Pandas , Scikit Learn 
+  * Matplotlib , LATEX  , Seaborn
 * Programming (Experienced)
   * Java
   * C++
   * Html, CSS, Javascript
 * Big Data Framework
-  * Hadoop * Spark
+  * Hadoop , Spark
 * Dbms Tool
-  * Mysql * MongoDB
+  * Mysql , MongoDB
 
 Publications
 ======
