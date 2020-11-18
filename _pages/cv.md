@@ -62,6 +62,8 @@ prediction of human and animal deaths in bihar using recurrent neural networks
 Wireless Network and Mobile Security and regression techniques,” Procedia computer science, vol. 132, pp. 486–497,2018
 6. R. Priya and D. Ramesh, “Ml based sustainable precision agriculture: a future
 generation perspective,” Sustainable Computing: Informatics and Systems, 2020.  
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
