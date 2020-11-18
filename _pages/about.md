@@ -18,7 +18,6 @@ I broadly work in Big data analytics and its application in the field of [precis
 
 # Contact Address:
 Room No. 124, Project Lab
-
 Department of Computer Science & Engineering
 IIT-Dhanbad, Dhanbad-826004,
 Jharkhand India
