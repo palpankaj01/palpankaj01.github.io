@@ -33,30 +33,31 @@ Skills
     * CC2538, CC2650, CC2538-CC2592, Atmega128RFA1
   * On board computer:
     * Intel Edison, raspberry pi, Arduino 
-* 
+* CAD \& Circuit Designing
+  * Circuit Designing Tools:
+    * Eagle 9.6.2 , Altium Designer, DipTrace 
+  * CAD Tools:
+    * Fusion-360
+* 3D-Printing Technology
+  * 3D Printers:
+    * Ultimaker S3 (FDM), PRUSA SL1 (MSLA)
+  * Slicing Tools:
+    * Cura, PrusaSlicer, KISSlicer
+* Operating System 
+  * Desktop O
+    * Windows 7, 8 , 10 
+    * Ubuntu 18.04.5
+  * Real-time OS
+    * Contiki-ng, TI-RTOS
+
 
 Publications
 ======
 <!-- <ul>{% for post in site.publications %}{% include archive-single-cv.html %}{% endfor %}</ul> -->
-1. R. Priya, D. Ramesh, and E. Khosla, “Crop prediction on the region belts of india: a
-naïve bayes mapreduce precision agricultural model,” in 2018 international
-conference on advances in computing, communications and informatics (ICACCI),
-pp. 99–104, IEEE, 2018.
-2. R. Priya and D. Ramesh, “Adaboost. rt based soil npk prediction model for soil and
-crop specific data: A predictive modelling approach,” in International Conference on
-Big Data Analytics, pp. 322–331, Springer, 2018.
-3. R. Priya, D. Ramesh, and E. Khosla, “Biodegradation of pesticides using
-density-based clustering on cotton crop affected by xanthomonas malvacearum,”
-Environment, Development and Sustainability, vol. 22, no. 2, pp. 1353–1369, 2020.
-4. E. Khosla, R. Dharavath, and R. Priya, “Crop yield prediction using aggregated
-rainfall-based modular artificial neural networks and support vector regression,”
-Environment, Development and Sustainability, pp. 1–22, 2019.
-5. E. Khosla, D. Ramesh, R. P. Sharma, and S. Nyakotey, “Rnns-rt: Flood based
-prediction of human and animal deaths in bihar using recurrent neural networks
-Wireless Network and Mobile Security and regression techniques,” Procedia computer science, vol. 132, pp. 486–497,2018
-6. R. Priya and D. Ramesh, “Ml based sustainable precision agriculture: a future
-generation perspective,” Sustainable Computing: Informatics and Systems, 2020.  
-
+1. P.Pal, S.Tripathi, and C.Kumar. "Bandwidth estimation in high mobility scenarios of ieee 802.11i nfrastructure-less mobile adhoc networks." International Journal of CommunicationSystems, 32(15):e4080, 2019.
+2. P.Pal, S.Tripathi, and C.Kumar. "Clustered heterogeneous wireless sensor network infrastructure for reliable and efficient path planning of mobile nodes in remote area." International Journal of Sensor Networks, 31(4):199–215, 2019.
+3. S.Pandey and P.Pal. "Spin-mi: Energy saving routing algorithm based on spin protocol in wsn." National Academy Science Letters, 37(4):335–339,2014. 
+4. S.Pandey, P.Pal, and A.Mukherjee. Irf-nmb: intelligent route formation technique in adhoc network using node mobility behaviour." National Academy Science Letters, 38(3):213–219, 2015. 
 
 Talks
 ======
