@@ -1,10 +1,11 @@
 ---
-title: "Data Mining"
+title: "Object Oriented Programing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1}
-venue: "Dehradun Institute of Technology, Department of CSE"
-date: 2017-01-01
-location: "Dehradun, India"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Mumbai University, Department of CSE"
+date: 2016-06-01
+location: " ARMIT, Thane (MH), Indi"
 ---
+
 
