@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rashmi Priya Sharma"
+title                    : "Pankaj Pal"
 title_separator          : "-"
-name                     : &name "Rashmi Priya Sharma"
+name                     : &name "Pankaj Pal"
 description              : &description "personal description"
-url                      : https://rashmipriya30.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://palpankaj03.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rashmipriya30/rashmipriya30.github.io"
+repository               : "palpankaj03/palpankaj03.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rashmi Priya Sharma"
-  avatar           : "rashmi_hmpg.jpg"
+  name             : "Pankal Pal"
+  avatar           : "profile.png"
   #bio              : "Your biography for the left-hand sidebar"
   location         : "India"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=BBdIL-AAAAAJ&hl=en"
-  email            : "rashmi[DOT]17dr000561[AT]cse[DOT]ism[DOT]ac[DOT]in"
+  googlescholar    : "https://scholar.google.com/citations?user=eWSjzZ8AAAAJ&hl=en&oi=sra"
+  email            : "palpankaj03[AT]gmail[DOT]com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rashmipriya30"
+  github           : "palpankaj03"
   google_plus      :
   keybase          :
   instagram        :
