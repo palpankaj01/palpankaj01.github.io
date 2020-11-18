@@ -17,12 +17,14 @@ Education
 
 Work experience
 ======
-*  2016-2017: Assistant Professor (Dehradun Intitute of Technology)
-  
-* 2017-2020: PROJECT FELLOW
-  * DST(SERB) IIT DHANBAD
-  
-  
+* IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
+August 2019 – Present (1 Years) Dhanbad, Jharkhand, India\
+* DEPARTMENT O FSCIENCE AND TECHNOLOGY : PROJECT FELLOW\
+March 2016 – August 2019 (3.5 Years)\
+Government of India, New Delhi, India 
+* MUMBAI UNIVERSITY: ASSISTANT PROFESSOR \
+August 2013 – December 2015 (2.4 Years)\ ARMIT, Thane (MH), India
+   
   
 Skills
 ======
