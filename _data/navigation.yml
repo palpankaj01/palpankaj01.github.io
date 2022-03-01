@@ -1,19 +1,25 @@
 # main links links
 main:
+  - title: "Bio"
+    url: /cv/ 
+    
+  - title: "Research"
+    url: /Research/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/  
+  - title: "Projects"
+    url: /Projects/       
     
   - title: "Achievements"
     url: /Achievements/ 
+    
+  - title: "Video"
+    url: /Video/ 
+    
+  - title: "Gallery"
+    url: /Gallery/ 
       
 
     
