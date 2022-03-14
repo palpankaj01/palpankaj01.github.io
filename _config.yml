@@ -79,8 +79,7 @@ analytics:
 author:
   name             : "Pankal Pal"
   avatar           : "pankaj.jpg"
-  bio              : "Senior Research Fellow, Department of Computer Science and Engineering, Indian Institute of Technology, Dhanbad, India 826004"
-  bio              : "Senior Research Fellow, Department of Computer Science and Engineering, Indian Institute of Technology, Dhanbad, India 826004"
+  bio              : "Senior Research Fellow, Department of Computer Science and Engineering, \n Indian Institute of Technology, Dhanbad, India 826004"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=eWSjzZ8AAAAJ&hl=en&oi=sra"
   email            : "palpankaj03[AT]gmail[DOT]com"
