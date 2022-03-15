@@ -80,9 +80,10 @@ author:
   name             : "Pankal Pal"
   avatar           : "pankaj.jpg"
   bio              : |
-                    <span style=\"color:#ff5740\">Senior Research Fellow</span>,
+                    Senior Research Fellow</span>,
                     Computer Science and Engineering
                     Indian Institute of Technology, Dhanbad, India 826004
+  color            : blue
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=eWSjzZ8AAAAJ&hl=en&oi=sra"
   email            : "palpankaj03[AT]gmail[DOT]com"
