@@ -2,9 +2,6 @@
 layout: archive
 title: ""
 permalink: /publications/
-header-includes:
-    - \usepackage {hyperref}
-    - \hypersetup {colorlinks = true, linkcolor = red, urlcolor = red}
 author_profile: true
 ---
 
