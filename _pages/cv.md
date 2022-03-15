@@ -54,9 +54,7 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  * Undergraduate: C Programming, Computer Networks, Computer System Organization, Digital Electronics
+  * Graduate: Advance computer Networks, Machine Learning
   
 
