@@ -2,9 +2,6 @@
 layout: archive
 title: ""
 permalink: /publications/
-linkcolor: red
-urlcolor: red
-citecolor: red
 author_profile: true
 ---
 
