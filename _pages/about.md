@@ -44,7 +44,7 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 2. Pal, Pankaj, et al. "Machine Learning Regression for RF Path Loss Estimation Over Grass Vegetation in IoWSN Monitoring Infrastructure." IEEE Transactions on Industrial Informatics (2022).
 3. Sharma, Rashmi Priya, Dharavath Ramesh, Pankaj Pal, Sachin Tripathi, and Chiranjeev Kumar. "IoT enabled IEEE 802.15. 4 WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction." IEEE Internet of Things Journal (2021).
 4. Pal, Pankaj, et al. "2.4 GHz RF Received Signal Strength Based Node Separation in WSN Monitoring Infrastructure for Millet and Rice Vegetation." IEEE Sensors Journal 21.16 (2021): 18298-18306.
-5. Pal, Pankaj, et al. "Genetic algorithm optimized node deployment in IEEE 802.15. 4 potato and wheat crop monitoring infrastructure." Scientific Reports 11.1 (2021): 1-12.
+5. Pal, Pankaj, et al. "Genetic algorithm optimized node deployment in IEEE 802.15. 4 potato and wheat crop monitoring infrastructure." NATURE Scientific Reports 11.1 (2021): 1-12.
 
 ## Recent Data repository
 1. Agro Glean System, Pankaj Pal, Rashmi Priya Sharma, November 11, 2020, "Effect of Paddy Rice vegetation on received signal strength between CC2538 SoC based sensor nodes operating at 2.4 GHz Radio Frequency (RF)", IEEE Dataport, doi: https://dx.doi.org/10.21227/j5xy-3e81.
