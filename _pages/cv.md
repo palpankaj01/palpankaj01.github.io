@@ -24,40 +24,32 @@ Work experience
   * Senior Research Fellow: Data Security Council of India (DSCI), NASSCOM®, 2019-2020 (1 Year)
   * Senior Research Fellow: Science and Engineering Research Board, Government of India, (2016-2019) (3 Years)
   * Lecturer: University of Mumbai, India, 2014-2016 (2 Years)
-*  IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
-August 2019 – Present (1 Years) Dhanbad, Jharkhand, India
-* DEPARTMENT OF SCIENCE AND TECHNOLOGY : PROJECT FELLOW\
-March 2016 – August 2019 (3.5 Years)\
-Government of India, New Delhi, India 
-* MUMBAI UNIVERSITY: ASSISTANT PROFESSOR \
-August 2013 – December 2015 (2.4 Years)\ ARMIT, Thane (MH), India
    
   
 Skills
 ======
 * Programming (Proficient):
-  * Python , Matlab , C , C++ , LATEX
-  * System on Chip (SoC) Micro-Controller Programming
-  * IEEE 802.15.4 Zgbee:
-    * CC2538, CC2650, CC2538-CC2592, Atmega128RFA1
-  * On board computer:
-    * Intel Edison, raspberry pi, Arduino 
-* CAD \& Circuit Designing
-  * Circuit Designing Tools:
-    * Eagle 9.6.2 , Altium Designer, DipTrace 
-  * CAD Tools:
+  * C, C++, C#, Python, R, TeX
+* Network Simulator:
+  * NetSim, QualNet, Contiki-Cooja
+* Data-minig Tool:
+  * Apache Hadoop, Spark
+* System on Chip (SoC) Micro-Controller Programming
+  * IEEE 802.15.4 modules: TI-CC2538, TI-CC2650, TI-CC2538-CC2592, Atmega128RFA2
+* IoT cloud platforms:
+  * Google IoT, Amazon Web Services IoT Platform, Microsoft Azure IoT, IBM Watson IoT
+* On board computer: 
+  * Intel Edison, NVIDIA Jetson Xavier NX, raspberry pi, Arduino (2560, ATmega328P) 
+* Electronic Design Automation:
+    * Autodesk-Eagle , Altium Designer, DipTrace 
+* CAD Tools:
     * Fusion-360
 * 3D-Printing Technology
-  * 3D Printers:
-    * Ultimaker S3 (FDM), PRUSA SL1 (MSLA)
-  * Slicing Tools:
-    * Cura, PrusaSlicer, KISSlicer
+  * 3D Printers: Markforged-X5, Ultimaker S3 (FDM), PRUSA SL1 (MSLA)
+  * Slicing Tools: Cura, PrusaSlicer, KISSlicer
 * Operating System 
-  * Desktop O
-    * Windows 7, 8 , 10 
-    * Ubuntu 18.04.5
-  * Real-time OS
-    * Contiki-ng, TI-RTOS
+  * Desktop OS: Windows 10, Ubuntu 18.04.5
+  * Real-time OS: Contiki-ng, TI-RTOS
 
 
 Publications
