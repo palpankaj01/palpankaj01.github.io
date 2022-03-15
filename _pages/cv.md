@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engineering in Information Technology, RGPV Bhopal, India (2011). 
-* Master of Engineering in Electrical Engineering, NIT Raipur, India (2014).
+* Bachelor of Engineering (B.E.) in Information Technology, RGPV Bhopal, India (2011). 
+* Master of Engineering (M.Tech) in Electrical Engineering, NIT Raipur, India (2014).
 * Ph.D in Computer Science, IIT-Dhanbad, India (2022).
 
 Work experience
@@ -50,15 +50,6 @@ Skills
 * Operating System 
   * Desktop OS: Windows 10, Ubuntu 18.04.5
   * Real-time OS: Contiki-ng, TI-RTOS
-
-
-Publications
-======
-<!-- <ul>{% for post in site.publications %}{% include archive-single-cv.html %}{% endfor %}</ul> -->
-1. P.Pal, S.Tripathi, and C.Kumar. "Bandwidth estimation in high mobility scenarios of ieee 802.11i nfrastructure-less mobile adhoc networks." International Journal of CommunicationSystems, 32(15):e4080, 2019.
-2. P.Pal, S.Tripathi, and C.Kumar. "Clustered heterogeneous wireless sensor network infrastructure for reliable and efficient path planning of mobile nodes in remote area." International Journal of Sensor Networks, 31(4):199–215, 2019.
-3. S.Pandey and P.Pal. "Spin-mi: Energy saving routing algorithm based on spin protocol in wsn." National Academy Science Letters, 37(4):335–339,2014. 
-4. S.Pandey, P.Pal, and A.Mukherjee. Irf-nmb: intelligent route formation technique in adhoc network using node mobility behaviour." National Academy Science Letters, 38(3):213–219, 2015. 
 
 Talks
 ======
