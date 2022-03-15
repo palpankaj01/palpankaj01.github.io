@@ -10,19 +10,19 @@ redirect_from:
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Data Mining, Energy harvesting
 
 ## Research Collaboration
-i.	**Data Security Council of India (DSCI), A NASSCOM® Initiative**
+1. **Data Security Council of India (DSCI), A NASSCOM® Initiative**
 Title: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring
 Project No.:
-ii.	**Department of Science and Technology, Government of India**
+2. **Department of Science and Technology, Government of India**
 Title: Design of reliable and energy efficient transport layer protocol for Wireless sensor networks.
 Project No.: DST(116)/2015-2016/420/CSE
-iii.	**Agro Glean System Enterprise, India**
+3. **Agro Glean System Enterprise, India**
 Title: 2.4Ghz channel characterization in food grass vegetation
 Project No.: AGS/2019/RND/254
-iv.	**Ministry of Micro, Small and Medium Enterprises, Government of India**
+4. **Ministry of Micro, Small and Medium Enterprises, Government of India**
 Title: Solar powered industrial Unmanned Arial Vehicle (UAV) for surveying and seed dropping.
 Project No.: IDEAJH000920
-v.	**Science and Engineering Research Board, Government of India**
+5. **Science and Engineering Research Board, Government of India**
 Project Title: “Interoperability issues in Fog-Cloud Infrastructure for IoT Applications”
 Project no.: DST(SERB)(214)/2018-2019/626/CSE
 
