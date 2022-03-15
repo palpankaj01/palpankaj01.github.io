@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Industry
+* **Industry**
   * Senior Software Engineer: AiThing India Private Limited, 2020-2022 (2 Year)
   * Software Engineer: IBM India Private Limited, 2011-2012 (1 year)
   * Research Intern: Agro Glean System Enterprises, India, 2019-2020 (1 Year)
