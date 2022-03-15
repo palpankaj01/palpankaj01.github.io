@@ -13,8 +13,7 @@ redirect_from:
 * Master of Engineering (M.Tech) in Electrical Engineering, NIT Raipur, India (2014).
 * Ph.D in Computer Science, IIT-Dhanbad, India (2022).
 
-Work experience
-======
+## Work experience
 * **Industry**
   * Senior Software Engineer: AiThing India Private Limited, 2021-2022 (2 Years)
   * Software Engineer: IBM India Private Limited, 2011-2012 (1 year)
@@ -25,8 +24,7 @@ Work experience
   * Lecturer: University of Mumbai, India, 2014-2016 (2 Years)
    
   
-Skills
-======
+## Skills
 * Programming (Proficient):
   * C, C++, C#, Python, R, TeX
 * Network Simulator:
@@ -50,14 +48,12 @@ Skills
   * Desktop OS: Windows 10, Ubuntu 18.04.5
   * Real-time OS: Contiki-ng, TI-RTOS
 
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
