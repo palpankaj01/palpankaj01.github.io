@@ -25,6 +25,16 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 4. Design of fringing field based multi-probe self-calibrated soil moisture sensor.
 5. Artificial intelligence based node deployment recommendation system in medium grass vegetation.
 
+## Current Projects
+1. **Title**: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring, 
+**Collaborator**: Data Security Council of India (DSCI) | A NASSCOM® Initiative
+2. **Title**: Design of reliable and energy efficient transport layer protocol for Wireless sensor networks.
+**Collaborator**: Department of Science and Technology, Government of India
+3. Title: Solar powered industrial Unmanned Arial Vehicle (UAV) for surveying and seed dropping.
+**Collaborator**: Ministry of Micro, Small and Medium Enterprises, Government of India.
+4. **Title**: Interoperability issues in Fog-Cloud Infrastructure for IoT Applications.
+**Collaborator**:Science and Engineering Research Board, Government of India.
+
 ## Recent publications
 1. Pal, Pankaj, Sachin Tripathi, and Chiranjeev Kumar. "Single Probe Imitation of Multi-Depth Capacitive Soil Moisture Sensor Using Bidirectional Recurrent Neural Network." IEEE Transactions on Instrumentation and Measurement (2022).
 2. Pal, Pankaj, et al. "Machine Learning Regression for RF Path Loss Estimation Over Grass Vegetation in IoWSN Monitoring Infrastructure." IEEE Transactions on Industrial Informatics (2022).
