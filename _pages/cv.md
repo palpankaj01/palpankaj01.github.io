@@ -17,10 +17,14 @@ Education
 Work experience
 ======
 * **Industry**
-  * Senior Software Engineer: AiThing India Private Limited, 2020-2022 (2 Year)
+  * Senior Software Engineer: AiThing India Private Limited, 2021-2022 (2 Years)
   * Software Engineer: IBM India Private Limited, 2011-2012 (1 year)
-  * Research Intern: Agro Glean System Enterprises, India, 2019-2020 (1 Year)
-* IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
+  * Research Intern: Agro Glean System Enterprises, India, 2020-2021 (1 Year)
+* **Research Project & Lectureship**
+  * Senior Research Fellow: Data Security Council of India (DSCI) | A NASSCOM® Initiative, 2019-2020 (1 Year)
+  * Senior Research Fellow: Science and Engineering Research Board, Government of India, (2016-2019) (3 Years)
+  * Lecturer: University of Mumbai, India, 2014-2016 (2 Years)
+*  IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
 August 2019 – Present (1 Years) Dhanbad, Jharkhand, India
 * DEPARTMENT OF SCIENCE AND TECHNOLOGY : PROJECT FELLOW\
 March 2016 – August 2019 (3.5 Years)\
