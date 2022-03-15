@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.E in Information Technology, RGPV Bhopal, India. 
-* M.Tech in Computer Science, NIT Raipur, India.
-* Ph.D in Computer Science, IIT-Dhanbad, India, (2021-expected)
+* Bachelor of Engineering in Information Technology, RGPV Bhopal, India (2011). 
+* Master of Engineering in Electrical Engineering, NIT Raipur, India (2014).
+* Ph.D in Computer Science, IIT-Dhanbad, India (2022).
 
 Work experience
 ======
