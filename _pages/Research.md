@@ -10,7 +10,7 @@ redirect_from:
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Data Mining, Energy harvesting
 
 ## Research Collaboration
-1. **Data Security Council of India (DSCI), A NASSCOM® Initiative**:
+1. **Data Security Council of India (DSCI), A NASSCOM Initiative**:
 Title: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring
 Project No.:
 2. **Department of Science and Technology, Government of India**:
