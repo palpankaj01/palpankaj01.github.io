@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
--
+
 
 # Compleated and Ongoing Projects
 
