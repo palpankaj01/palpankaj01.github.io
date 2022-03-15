@@ -5,10 +5,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+-
 
 # Compleated and Ongoing Projects
-=========================
+
 ## Design of Reliable and Energy Efficient Transport Layer Protocol for Wireless Sensor Networks
 **Sponsored by: Department of Science and Technology, Government of India** \
 The overall objective of this project is to design reliable and energy efficient transport layer protocol for ad-hoc and sensor network. a.	We proposed an enhanced protocol for channel reservation to reduce packet drops using cross layer approach. It shares information between transport layer and data link layer. Especially, availability of buffer space is considered prior to sending the confirmation message (CTS) to sender node. BA-MAC is recommended for dense wireless networks where most of the nodes face congestion and drop packets due to buffer overwhelming. This protocol achieves 2.81 % improvement in energy consumption. Also, it reduces packet drop rate by 14.6 %. Thus BA-MAC enriches efficiency of the network by 15 % (approximately) as compared to default MAC layer protocols.
