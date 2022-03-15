@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Candidate in the [Department of Computer Science & Engineering, IIT Dhanbad](https://www.iitism.ac.in/index.php/Departments/dept_cse)
+# BRIEF BIO
+Hi! I’m Pankaj Pal a Senior Research Fellow at the Indian Institute of Technology, Dhanbad in the Department of Computer Science and Engineering. 
+I am also an entrepreneur and chief technical officer in startup. 
+Being a climate activist my research are all grounded in the idea that science and technology can help us to overcome Climate crises. I have expertise in Wireless networking, Sensor networks and embedded system. For a decade I have been investigating the applications of ICT technologies like artificial intelligence, machine learning, IoT and the digital twin in mitigating the impact of climate change on agriculture, water resources and human health.
+
 
 
 # Research Interests
