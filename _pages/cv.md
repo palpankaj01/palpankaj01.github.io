@@ -8,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
+##Education
 Education
 ======
 * Bachelor of Engineering (B.E.) in Information Technology, RGPV Bhopal, India (2011). 
