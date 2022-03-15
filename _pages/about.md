@@ -15,7 +15,7 @@ Being a climate activist my research are all grounded in the idea that science a
 
 
 
-## Research Interests
+## My work and research
 My area of research interest includes cyber physical systems, embedded systems, Internet-of-Thing, Edge computing,
 Precision Agriculture. My major contributions as a part of my work as doctoral candidate are as follow:
 1. Design of ecmomical and reliable multi-probe self-calibrated soil capacitive moisture sensor.
