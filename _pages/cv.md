@@ -21,7 +21,7 @@ Work experience
   * Software Engineer: IBM India Private Limited, 2011-2012 (1 year)
   * Research Intern: Agro Glean System Enterprises, India, 2020-2021 (1 Year)
 * **Research Project & Lectureship**
-  * Senior Research Fellow: Data Security Council of India (DSCI) | A NASSCOM® Initiative, 2019-2020 (1 Year)
+  * Senior Research Fellow: Data Security Council of India (DSCI), NASSCOM®, 2019-2020 (1 Year)
   * Senior Research Fellow: Science and Engineering Research Board, Government of India, (2016-2019) (3 Years)
   * Lecturer: University of Mumbai, India, 2014-2016 (2 Years)
 *  IIT DHANBAD : (SRF/ AI & CYBER PHYSICAL SYSTEM LAB)\
