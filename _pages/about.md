@@ -59,6 +59,9 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 ## Contact Address:
 Room No. 124, Project Lab\
 Department of Computer Science & Engineering\
-IIT-Dhanbad, Jharkhand , India
+Indian Institute of Technology (IIT), Dhanbad\
+Sardar Patel Nagar, Dhanbad, Jharkhand 826004\
+Email: palpankaj03@gmail.com\
+Phone: +91-9973389227
 
 
