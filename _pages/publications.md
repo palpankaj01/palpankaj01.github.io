@@ -2,9 +2,9 @@
 layout: archive
 title: ""
 permalink: /publications/
+linkcolor: red
 author_profile: true
 ---
-linkcolor: red
 
 # Publication in SCI (Clarivate) Journal:
 - Pal, Pankaj, Sachin Tripathi, and Chiranjeev Kumar. "[Single Probe Imitation of Multi-Depth Capacitive Soil Moisture Sensor Using Bidirectional Recurrent Neural Network.](https://ieeexplore.ieee.org/abstract/document/9726220)" *IEEE Transactions on Instrumentation and Measurement* (2022).
