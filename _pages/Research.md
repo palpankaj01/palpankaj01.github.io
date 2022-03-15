@@ -9,8 +9,6 @@ redirect_from:
 ## Keyword 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Data Mining, Energy harvesting
 
-Pal, Pankaj, Sachin Tripathi, and Chiranjeev Kumar. "[Single Probe Imitation of Multi-Depth Capacitive Soil Moisture Sensor Using Bidirectional Recurrent Neural Network.](https://ieeexplore.ieee.org/abstract/document/9726220)" *IEEE Transactions on Instrumentation and Measurement* (2022).
-
 ## Research Collaboration
 1. **Data Security Council of India (DSCI), A NASSCOM Initiative**:
 Title: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring
