@@ -27,10 +27,10 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 
 ## Current Projects
 1. **Title**: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring.
-**Role**: Senior Research Fellow.
+**Role**: Senior Research Fellow (Team Leader).
 **Collaborator**: Data Security Council of India (DSCI) | A NASSCOM® Initiative.
 2. **Title**: Solar powered industrial Unmanned Arial Vehicle (UAV) for surveying and seed dropping.
-**Role**: Senior Software Engineer (Research).
+**Role**: Senior Software Engineer (Team Leader).
 **Collaborator**: Ministry of Micro, Small and Medium Enterprises, Government of India.
 3. **Title**: Interoperability issues in Fog-Cloud Infrastructure for IoT Applications.
 **Role**: Senior Research Fellow.
