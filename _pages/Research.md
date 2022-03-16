@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /Research/
 author_profile: true
-geometry: margin=2cm
+geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
 redirect_from:
   - /resume
 ---
