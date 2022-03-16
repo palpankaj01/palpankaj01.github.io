@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<div style="text-align: justify">
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
