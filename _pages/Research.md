@@ -21,7 +21,7 @@ Your developmental edit includes:
  <li>A PDF guide to implementing changes suggested by your editor; and</li>
    <li>Recordings of both Skype calls.</li>
     </ul>
-</p>
+</div>
 </div>
   <label for="visible" class="read-more-trigger"></label>
 </div>
