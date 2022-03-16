@@ -29,7 +29,7 @@ Project no.: DST(SERB)(214)/2018-2019/626/CSE
 
 
 ----------------------- ------------------------------------
-![Tip](/images/pankaj.jpg)\ Table multiline text bla bla bla bla
+![Tip](/images/pankaj.jpg) \ Table multiline text bla bla bla bla
                         bla bla bla bla bla bla bla ... the
                         blank line below is important 
 
