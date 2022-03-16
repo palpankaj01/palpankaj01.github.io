@@ -48,6 +48,19 @@ redirect_from:
   * Desktop OS: Windows 10, Ubuntu 18.04.5
   * Real-time OS: Contiki-ng, TI-RTOS
 
+## Achievements
+1. Research grant
+* Department of Science and Technology (DST), Government of India Research Grant for the period of three years.
+* Science and Engineering Research Board (SERB), Government of India Research Grant for the period of one year
+
+2. Industry
+* Ministry of Micro, Small and Medium Enterprises, Government of India, Seed Funding for Solar/wind street lightning product devlopment.
+* Agro Glean System Enterprise, India, Seed Funding for devlopment of low costa nd reliable capacitive soil moisture sensors.
+
+3. Academic
+* Sored Rank of 3100 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering),2020 ,and is conducted across India, Bangladesh, Ethiopia, Nepal, Singapore, Sri Lanka, and United Arab Emirates.
+* Research PhD Fellowship from Technical Education Quality Improvement Programme (TEQIP-III), A project of Government of India assisted by World Bank.
+
 ## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
