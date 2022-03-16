@@ -12,12 +12,6 @@ main:
   - title: "Projects"
     url: /Projects/       
     
-  - title: "Achievements"
-    url: /Achievements/ 
-    
-  - title: "Video"
-    url: /Video/ 
-    
   - title: "Gallery"
     url: /Gallery/ 
       
