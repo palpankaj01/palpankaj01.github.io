@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-## Keyword 
-Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Data Mining, Energy harvesting
+## Research Areas 
+Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
 
 ## Research Collaboration
 1. **Data Security Council of India (DSCI), A NASSCOM Initiative**:
