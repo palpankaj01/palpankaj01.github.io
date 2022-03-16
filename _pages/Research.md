@@ -7,11 +7,14 @@ redirect_from:
   - /resume
 ---
 
-.Toggle Me
-[%collapsible]
-====
-This content is revealed when the "Toggle Me" label is clicked.
-====
+<div class="show-hide">
+ <input type="checkbox" class="read-more-state" id="visible" />
+ <div class="read-more-wrap">
+   <p>Visible Paragraph</p>
+   <p class="read-more-target">Hidden Paragraph</p>
+ </div>
+ <label for="visible" class="read-more-trigger"></label>
+</div>
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
