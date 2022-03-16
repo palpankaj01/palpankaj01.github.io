@@ -8,12 +8,22 @@ redirect_from:
 ---
 
 <div class="show-hide">
- <input type="checkbox" class="read-more-state" id="visible" />
- <div class="read-more-wrap">
-   <p>Visible Paragraph</p>
-   <p class="read-more-target">Hidden Paragraph</p>
- </div>
- <label for="visible" class="read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="visible" />
+  <div class="read-more-wrap">
+    <p>Developmental editing, also called structural or content editing, is designed to check the bones of your book to make sure everything necessary is included and in the right place. The goal is to <b>take your good story and make it great</b>. For this service, we read the entire manuscript at least twice and provide a written critique with suggestions at the level of the entire book and individual chapters. This edit also includes two Skype calls with your editor.</p>
+    <p class="read-more-target">
+    <h3>What do I get?</h3>
+Your developmental edit includes:
+<ul>
+ <li>A 30-minute Skype call <i>prior to</i> editing so your editor can understand your vision and unique voice;</li>
+ <li>A written critique that addresses what’s working and what could be improved at book and chapter levels;</li>
+ <li>A second 30-minute Skype call <i>after</i> receiving your critique to ask your editor questions and brainstorm solutions to problems;</li>
+ <li>A PDF guide to implementing changes suggested by your editor; and</li>
+   <li>Recordings of both Skype calls.</li>
+    </ul>
+</p>
+</div>
+  <label for="visible" class="read-more-trigger"></label>
 </div>
 
 ## Research Areas 
