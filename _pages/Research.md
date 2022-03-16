@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<strong>Oh man, this post is messed up.<!--more--></strong>
+<strong>Oh man, this post is messed up.</strong><!--more-->
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
