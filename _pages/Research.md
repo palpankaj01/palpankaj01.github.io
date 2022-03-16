@@ -6,24 +6,77 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <div class="show-hide">
-  <input type="checkbox" class="read-more-state" id="visible" />
-  <div class="read-more-wrap">
-    <p>Developmental editing, also called structural or content editing, is designed to check the bones of your book to make sure everything necessary is included and in the right place. The goal is to <b>take your good story and make it great</b>. For this service, we read the entire manuscript at least twice and provide a written critique with suggestions at the level of the entire book and individual chapters. This edit also includes two Skype calls with your editor.</p>
-    <div class="read-more-target">
-    <h3>What do I get?</h3>
-Your developmental edit includes:
-<ul>
- <li>A 30-minute Skype call <i>prior to</i> editing so your editor can understand your vision and unique voice;</li>
- <li>A written critique that addresses what’s working and what could be improved at book and chapter levels;</li>
- <li>A second 30-minute Skype call <i>after</i> receiving your critique to ask your editor questions and brainstorm solutions to problems;</li>
- <li>A PDF guide to implementing changes suggested by your editor; and</li>
-   <li>Recordings of both Skype calls.</li>
-    </ul>
-</div>
-</div>
-  <label for="visible" class="read-more-trigger"></label>
+ <input type="checkbox" class="read-more-state" id="visible" />
+ <div class="read-more-wrap">
+   <p>
+     When it comes to Social Media Marketing for their businesses,
+     many people feel dissatisfied, overwhelmed, or that they are
+     missing out. At KnoxMedia we help companies build their brand
+     and sell more stuff through ENGAGING Social Media Marketing.
+   </p>
+   <p>
+     The human brain pays attention to information that helps it
+     survive and thrive. If your content on Social Media and
+     beyond doesn't provide your audience that value, you've
+     become white noise.
+   </p>
+       <div class="read-more-target">
+     <p>
+       Because businesses are so close to their products and
+       services, it can be especially challenging to create
+       content that your audience understands and wants to engage
+       with.
+     </p>
+     <p>
+       If that wasn’t difficult enough, there is also the rapidly
+       changing digital landscape of algorithms, updates, and
+       progressively shorter attention spans. Business leaders:
+       don't be dismayed because we care about your business and
+       want to help you enjoy consistent, predictable, and
+       scalable growth.
+     </p>
+     <p>
+       Unlike hiring a team in-house, we must habitually help you
+       build your brand and sell more stuff so that we keep you as
+       a client at the end of each short term agreement. We've got
+       all the best content creators, designers, marketers, and
+       social media experts in place which enable you to scale
+       A-La-Cart.
+     </p>
+     <p>
+       Our founder, Evan Knox, started our company with the deep
+       conviction that no great business should have lousy
+       content.  From Social Media, websites, and everything
+       in between we produce Marketing that works. If you're an
+       entrepreneur or small business, you'll have a reduced
+       workload and increased peace of mind. You'll be so proud of
+       your brand's social media that you'll be showing it to all
+       your friends. If you're a Medium or Large business, you'll
+       be able to lower your fixed overhead and improve your
+       marketing ROI.
+     </p>
+     <p>
+       Be wary of having the wrong people producing your content
+       as it may be damaging to your brand and wasting precious
+       marketing resources. Your competition loves finding you
+       under those circumstances.
+     </p>
+     <p>
+       What makes us uniquely different is that we are one of the
+       few agencies who let you, metaphorically, go on a date with
+       us before any long-term commitment. We call it our "Love it
+       or Leave us Guarantee." It's up to you do decide after the
+       first month if we're a good fit for a short 6-month
+       commitment.
+     </p>
+     <p>
+       Get a quote today that fits your budget and goals and enjoy
+       marketing that works!
+     </p>
+     </div>
+ </div>
+     <label for="visible" class="read-more-trigger"></label>
 </div>
 
 ## Research Areas 
