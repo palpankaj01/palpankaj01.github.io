@@ -11,7 +11,7 @@ redirect_from:
   <input type="checkbox" class="read-more-state" id="visible" />
   <div class="read-more-wrap">
     <p>Developmental editing, also called structural or content editing, is designed to check the bones of your book to make sure everything necessary is included and in the right place. The goal is to <b>take your good story and make it great</b>. For this service, we read the entire manuscript at least twice and provide a written critique with suggestions at the level of the entire book and individual chapters. This edit also includes two Skype calls with your editor.</p>
-    <p class="read-more-target">
+    <div class="read-more-target">
     <h3>What do I get?</h3>
 Your developmental edit includes:
 <ul>
