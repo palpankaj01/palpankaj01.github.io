@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+.Toggle Me
+[%collapsible]
+====
+This content is revealed when the "Toggle Me" label is clicked.
+====
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
