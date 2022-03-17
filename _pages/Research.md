@@ -2,10 +2,13 @@
 layout: archive 
 title: ""
 permalink: /Research/
-htmltools: includeHTML("/_includes/text-expand.html")
 author_profile: true
 redirect_from:
   - /resume
+output:
+  html_document:
+    includes:
+      in_header: /_includes/text-expand.html
 ---
 
 <div class="show-hide">
