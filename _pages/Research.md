@@ -8,10 +8,15 @@ redirect_from:
 ---
 
 <div class="show-hide">
+  <h2>Show / Hide Paragraphs</h2>
   <input type="checkbox" class="read-more-state" id="visible" />
   <div class="read-more-wrap">
-    <p>The Daojia and Xiongshi Yijin Jing are my personal favourite Qigong practices. I have researched the Yijin Jing extensively within my own body, guided by my Taoist master Wang Gang and master Qu Hai. Through many years of practice and correct guidance I was able to experience the effects of the Yijin Jing not only externally, but also the many subtle changes that happen internally. After an additional 2 years of training Taiji and Qigong in a full-time setting in China, I feel ready to humbly pass on this technique and guide you through this journey. When you develop this practice to a high level, the Yijin Jing can transform even the smallest framed individual into a healthy and strong person capable of incredible feats of strength and willpower.</p>
-    <p class="read-more-target">As you will find out soon, there are different layers (sets of cues) to this practice and it is important to be patient and stick to the correct order. The Daojia Yijin Jing is particularly good for beginners because you’re basically starting out by setting the correct foundation for any type of Qigong. - Relaxation and the awareness of Qi. Only if you are able to fully relax in each position you will gain the benefits of this practice. The Xiongshi method of the “Muscle and Tendon Changing Qigong” is specifically designed for martial arts. Both classics are following the principle of Zhan Zhuang Gong. (Standing Pole Exercises)
+    <p><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis mattis libero. Nulla tincidunt quam sed purus hendrerit placerat. Ut a porttitor odio. Sed feugiat arcu quis tincidunt feugiat. Donec aliquam aliquet nibh eget luctus. Nunc eget neque non massa pulvinar efficitur fringilla quis augue. Donec vel tempus lacus. Pellentesque aliquet felis nisl, eget finibus velit volutpat vitae. Ut tincidunt dapibus nunc ac euismod. Nulla urna neque, porttitor sit amet arcu sed, dignissim sodales mauris. Proin quis ante nec eros mollis bibendum quis ac ex. Vestibulum tempus justo dui, ut venenatis felis pellentesque non. Etiam cursus imperdiet elit, hendrerit cursus risus pharetra et. Cras accumsan venenatis arcu at pulvinar. Quisque tristique nisl id lobortis sodales. Duis ornare metus nec justo rutrum, in convallis turpis cursus. </p>
+    
+    <p class="read-more-target"><br>Phasellus vel interdum enim, et vehicula mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent auctor efficitur ornare. Vestibulum hendrerit in diam ac imperdiet. Nulla maximus neque eget est hendrerit, quis volutpat ex semper. Nulla odio risus, vulputate sed leo et, luctus malesuada eros. Etiam et mauris nec dui vulputate feugiat nec et sapien. Ut sollicitudin mi quis justo viverra, eget dignissim velit congue. Curabitur lobortis, arcu et dapibus ullamcorper, magna tellus viverra leo, eu suscipit dui erat at sem. </p>
+  </div>
+  <label for="visible" class="read-more-trigger"></label>
+</div>
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
