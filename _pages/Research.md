@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+htmltools::includeHTML("/_includes/text-expand.html")
 
 <div class="show-hide">
   <h2>Show / Hide Paragraphs</h2>
