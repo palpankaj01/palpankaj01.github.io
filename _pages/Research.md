@@ -5,22 +5,8 @@ permalink: /Research/
 author_profile: true
 redirect_from:
   - /resume
-output:
-  html_document:
-    includes:
-      in_header: /_includes/text-expand.html
 ---
 
-<div class="show-hide">
-  <h2>Show / Hide Paragraphs</h2>
-  <input type="checkbox" class="read-more-state" id="visible" />
-  <div class="read-more-wrap">
-    <p><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis mattis libero. Nulla tincidunt quam sed purus hendrerit placerat. Ut a porttitor odio. Sed feugiat arcu quis tincidunt feugiat. Donec aliquam aliquet nibh eget luctus. Nunc eget neque non massa pulvinar efficitur fringilla quis augue. Donec vel tempus lacus. Pellentesque aliquet felis nisl, eget finibus velit volutpat vitae. Ut tincidunt dapibus nunc ac euismod. Nulla urna neque, porttitor sit amet arcu sed, dignissim sodales mauris. Proin quis ante nec eros mollis bibendum quis ac ex. Vestibulum tempus justo dui, ut venenatis felis pellentesque non. Etiam cursus imperdiet elit, hendrerit cursus risus pharetra et. Cras accumsan venenatis arcu at pulvinar. Quisque tristique nisl id lobortis sodales. Duis ornare metus nec justo rutrum, in convallis turpis cursus. </p>
-    
-    <p class="read-more-target"><br>Phasellus vel interdum enim, et vehicula mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent auctor efficitur ornare. Vestibulum hendrerit in diam ac imperdiet. Nulla maximus neque eget est hendrerit, quis volutpat ex semper. Nulla odio risus, vulputate sed leo et, luctus malesuada eros. Etiam et mauris nec dui vulputate feugiat nec et sapien. Ut sollicitudin mi quis justo viverra, eget dignissim velit congue. Curabitur lobortis, arcu et dapibus ullamcorper, magna tellus viverra leo, eu suscipit dui erat at sem. </p>
-  </div>
-  <label for="visible" class="read-more-trigger"></label>
-</div>
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
@@ -48,7 +34,7 @@ Project no.: DST(SERB)(214)/2018-2019/626/CSE
 ### **Low cost fringing field capacitive soil moisture sensor design**
 <p align="justify"> <img align="right" src="/images/soil.png" width="430">
 Efficient irrigation management techniques ensure a long-term food supply under optimum ecological, economic, and social conditions. The most dominating factor influencing irrigation management decisions is Soil Water Content (SWC). The SWC measurements may vary at different depths in different locations for the same flow of water during irrigation as the water movement is different for different soil compositions. Mathematical models of soil water movement often use unsaturated hydraulic conductivity (UHC) as a driving factor. The UHC depends on pore-size distribution, tortuosity, pore connectivity and groundwater table. The UHC is a soil-specific parameter, and its manual measurement in the field is difficult and time-consuming. 
-[expand]
+![expand]
 More advanced SWC and UHC measurement methods use approaches based on neutron scattering, thermogravimetric and dielectric techniques. These methods require the measuring probe to be deployed at multiple soil depths to capture the SWC profile. The Capacitive Moisture Measurement (CMM) method is the most widely adopted technique due to its reliable and low cost implementation. However, the overall cost and energy consumption of an IoT enabled Wireless Sensor Network (IoWSN) employing these sensors can be much higher if deployment is to be done on large farms with multi depth sensing. In this work, with the aim of reducing the cost and energy usage of IoWSN deployment, we have developed a Neural Network (NN) based single probe imitation of a multi-depth capacitive soil moisture sensor.
 [/expand]
 </p>
