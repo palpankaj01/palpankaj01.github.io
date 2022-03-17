@@ -13,7 +13,7 @@ Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sens
 ## Current Research in Progress
 
 ### **Low cost fringing field capacitive soil moisture sensor design**
-<p align="justify"> <img align="right" src="/images/soil.png" width="430">
+<p align="justify"> <img align="right" src="/images/soil1.png" width="430">
 Efficient irrigation management techniques ensure a long-term food supply under optimum ecological, economic, and social conditions. The most dominating factor influencing irrigation management decisions is Soil Water Content (SWC). The SWC measurements may vary at different depths in different locations for the same flow of water during irrigation as the water movement is different for different soil compositions. Mathematical models of soil water movement often use unsaturated hydraulic conductivity (UHC) as a driving factor. The UHC depends on pore-size distribution, tortuosity, pore connectivity and groundwater table. The UHC is a soil-specific parameter, and its manual measurement in the field is difficult and time-consuming. 
   
 <details>
