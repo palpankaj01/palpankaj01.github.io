@@ -10,11 +10,8 @@ redirect_from:
 <div class="show-hide">
   <input type="checkbox" class="read-more-state" id="visible" />
   <div class="read-more-wrap">
-    <p>Visible Text</p>
-    <p class="read-more-target">Hidden Text</p>
-  </div>
-  <label for="visible" class="read-more-trigger"></label>
-</div>
+    <p>The Daojia and Xiongshi Yijin Jing are my personal favourite Qigong practices. I have researched the Yijin Jing extensively within my own body, guided by my Taoist master Wang Gang and master Qu Hai. Through many years of practice and correct guidance I was able to experience the effects of the Yijin Jing not only externally, but also the many subtle changes that happen internally. After an additional 2 years of training Taiji and Qigong in a full-time setting in China, I feel ready to humbly pass on this technique and guide you through this journey. When you develop this practice to a high level, the Yijin Jing can transform even the smallest framed individual into a healthy and strong person capable of incredible feats of strength and willpower.</p>
+    <p class="read-more-target">As you will find out soon, there are different layers (sets of cues) to this practice and it is important to be patient and stick to the correct order. The Daojia Yijin Jing is particularly good for beginners because you’re basically starting out by setting the correct foundation for any type of Qigong. - Relaxation and the awareness of Qi. Only if you are able to fully relax in each position you will gain the benefits of this practice. The Xiongshi method of the “Muscle and Tendon Changing Qigong” is specifically designed for martial arts. Both classics are following the principle of Zhan Zhuang Gong. (Standing Pole Exercises)
 
 ## Research Areas 
 Cyber Physical system,	Artificial intelligence & Machine learning,	Wireless Sensor Networks, IoT & Edge Computing,	Precision Agriculture, Energy harvesting
