@@ -2,7 +2,7 @@
 layout: archive 
 title: ""
 permalink: /Research/
-htmltools::includeHTML("/_includes/text-expand.html")
+htmltools: includeHTML("/_includes/text-expand.html")
 author_profile: true
 redirect_from:
   - /resume
