@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pankaj Pal"
+title                    : "PANKAJ PAL"
 title_separator          : "-"
 name                     : &name "Pankaj Pal"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ author:
   name             : "Pankal Pal"
   avatar           : "pankaj.jpg"
   bio              : |
-                    Senior Research Fellow, <bar>
+                    Senior Research Fellow, <br>
                     Computer Science and Engineering,
                     Indian Institute of Technology, Dhanbad, India 826004
   employer         :
