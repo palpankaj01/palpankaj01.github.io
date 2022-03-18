@@ -55,20 +55,10 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 
 
 ## News
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/palpankaj01/palpankaj01.github.io/blob/fix-teaching/images/temp11.mp4">
 </video>
 **All-in-one IoWSN weather station deployed in the farm land of gwalior madhya pradesh, India. **
 The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiation Sensor, Solar panel, and the Gas sensor is an Edge Gateway for the soil moisture sensor network.  The Gateway houses the Nvidia Jetson Xavier-nx and has LTE connectivity for Microsoft azure cloud connectivity.
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=8GSOGCfiQeM"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 ## Contact Address:
 Room No. 124, Project Lab\
