@@ -59,7 +59,7 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 <p align="justify"><p align="justify"><video align="right" src="images/farm3.mp4" data-canonical-src="images/farm3.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:500px;" width="230"></video>
 The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiation Sensor, Solar panel, and the Gas sensor is an Edge Gateway for the soil moisture sensor network.  The Gateway houses the Nvidia Jetson Xavier-nx and has LTE connectivity for Microsoft azure cloud connectivity. </p>
 
-<table height="150" width="500" border="1" bordercolor="red"> <tr><td style="width:50%" bordercolor="#ff0000">
+<table bordercolor="red"><tr><td style="width:50%" bordercolor="#ff0000">
 <video align="right" src="images/farm3.mp4" data-canonical-src="images/farm3.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:500px;" width="230"></video></td>
 <td style="width:50%">
 The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiation Sensor, Solar panel, and the Gas sensor is an Edge Gateway for the soil moisture sensor network.  The Gateway houses the Nvidia Jetson Xavier-nx and has LTE connectivity for Microsoft azure cloud connectivity.
