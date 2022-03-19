@@ -54,8 +54,8 @@ Precision Agriculture. My major contributions as a part of my work as doctoral c
 4. Agro Glean System, Pankaj Pal, November 11, 2020, "Effect of Sugarcane Vegetation On Path-Loss Between CC2650 and CC2538 Soc Based Sensor Nodes Operating At 2.4 Ghz Radio Frequency (Rf)", IEEE Dataport, doi: https://dx.doi.org/10.21227/8mcm-hx34.
 
 
-## News
-### **All-in-one IoWSN weather station deployed in the farm land of gwalior madhya pradesh, India. **
+## New
+### All-in-one IoWSN weather station deployed in the farm land of gwalior madhya pradesh, India.
 <p align="justify"><video align="right" src="images/farm3.mp4" data-canonical-src="images/farm3.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:500px;" width="230">
 </video>
 The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiation Sensor, Solar panel, and the Gas sensor is an Edge Gateway for the soil moisture sensor network.  The Gateway houses the Nvidia Jetson Xavier-nx and has LTE connectivity for Microsoft azure cloud connectivity. </p>
