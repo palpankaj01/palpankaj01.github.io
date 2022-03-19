@@ -64,6 +64,32 @@ The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiat
 <td style="width:50%">
 The weather station equipped with Ultrasonic Anemometer, Raingauge, Solar Radiation Sensor, Solar panel, and the Gas sensor is an Edge Gateway for the soil moisture sensor network.  The Gateway houses the Nvidia Jetson Xavier-nx and has LTE connectivity for Microsoft azure cloud connectivity.
 </td></tr></table>
+
+<table border="1">
+    <caption>Table Caption</caption>
+    <tr>
+        <td>
+            Row 1, col 1 item
+        </td>
+        <td>
+            Row 1, col 2 item
+        </td>
+        <td>
+            Row 1, col 3 item
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Row 2, col 1 item
+        </td>
+        <td>
+            Row 2, col 2 item
+        </td>
+        <td>
+            Row 2, col 3 item
+        </td>
+    </tr>
+</table>
 """
 
 ## Contact Address:
