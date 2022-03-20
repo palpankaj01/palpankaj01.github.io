@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 * Bachelor of Engineering (B.E.) in Information Technology, RGPV Bhopal, India (2011). 
 * Master of Engineering (M.Tech) in Electrical Engineering, NIT Raipur, India (2014).
-* Ph.D in Computer Science, IIT-Dhanbad, India (2022).
+* Doctor of Philosophy (Ph.D) in Computer Science, IIT Dhanbad, India (2022).
 
 ## Work experience
 * **Industry**
@@ -60,6 +60,28 @@ redirect_from:
 3. Academic
 * Sored Rank of 3100 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering),2020 ,and is conducted across India, Bangladesh, Ethiopia, Nepal, Singapore, Sri Lanka, and United Arab Emirates.
 * Research PhD Fellowship from Technical Education Quality Improvement Programme (TEQIP-III), A project of Government of India assisted by World Bank.
+
+## Membership
+* Member, IEEE (ID: 92354743)
+* IEEE Instrumentation and Measurement Society Membership
+* IEEE Young Professionals
+* IEEE Communications Society Membership
+* IEEE Computer Society Membership
+* IEEE Signal Processing Society Membership
+* IEEE Sensors Counsil
+* IEEE Council on Electronic Design Automation
+* IEEE Council on RFID
+* IEEE Council on Superconductivity
+* IEEE Nanotechnology Council
+* International Society of Precision Agriculture
+* Student Member, ACM
+
+## Reviewer Experience
+* IEEE Transactions on Circuits and Systems II: Express Briefs
+* IEEE Access
+* IEEE Sensor Journal
+* Wireless Networks, Springer
+* International Journal of Communication Systems, Wiley
 
 ## Talks
   <ul>{% for post in site.talks %}
