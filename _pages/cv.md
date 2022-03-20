@@ -66,13 +66,9 @@ redirect_from:
 * IEEE Instrumentation and Measurement Society Membership
 * IEEE Young Professionals
 * IEEE Communications Society Membership
-* IEEE Computer Society Membership
 * IEEE Signal Processing Society Membership
 * IEEE Sensors Counsil
 * IEEE Council on Electronic Design Automation
-* IEEE Council on RFID
-* IEEE Council on Superconductivity
-* IEEE Nanotechnology Council
 * International Society of Precision Agriculture
 * Student Member, ACM
 
