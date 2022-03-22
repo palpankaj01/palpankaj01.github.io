@@ -68,13 +68,3 @@ Phone: +91-9973389227
 
 
 
-
-## Contact Address:
-Room No. 124, Project Lab\
-Department of Computer Science & Engineering\
-Indian Institute of Technology (IIT), Dhanbad\
-Sardar Patel Nagar, Dhanbad, Jharkhand 826004\
-Email: palpankaj03@gmail.com\
-Phone: +91-9973389227
-
-
